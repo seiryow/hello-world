@@ -1,0 +1,8 @@
+{
+  "name": "seiryow/hello-world",
+  "autoload": {
+    "psr-0": {
+      "HelloWorld": "."
+    }
+  }
+}
